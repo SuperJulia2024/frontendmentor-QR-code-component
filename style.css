@@ -30,7 +30,7 @@ main {
   justify-content: center;
   margin: auto;
   border-radius: 5%;
-  width: 260px;
+  width: 280px;
 }
 
 main #image {
@@ -39,12 +39,12 @@ main #image {
 
 main #image img {
   border-radius: 5%;
-  width: 235px;
-  height: 235px;
+  width: 260px;
+  height: 260px;
 }
 
 main h1 {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   margin: 0 1rem;
   text-wrap: wrap;
   text-align: center;
@@ -52,7 +52,7 @@ main h1 {
 }
 
 main p {
-  margin: 0.8rem 2rem 2.5em 2rem;
+  margin: 0.8rem 2rem 2.7em 2rem;
   text-align: center;
   font-weight: 400;
   font-size: 0.87rem;
