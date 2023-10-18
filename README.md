@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/SuperJulia2024/frontendmentor-QR-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/SuperJulia2024/frontendmentor-QR-code-component](https://github.com/SuperJulia2024/frontendmentor-QR-code-component)
+- Live Site URL: [https://superjulia2024.github.io/frontendmentor-QR-code-component/](https://superjulia2024.github.io/frontendmentor-QR-code-component/)
 
 ## My process
 
